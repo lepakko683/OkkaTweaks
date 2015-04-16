@@ -1,0 +1,16 @@
+[
+{
+  "modid": "okkatweaks",
+  "name": "OkkaTweaks",
+  "description": "Small changes to the game to refresh the experience.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Okkapel"],
+  "credits": "N/A",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
